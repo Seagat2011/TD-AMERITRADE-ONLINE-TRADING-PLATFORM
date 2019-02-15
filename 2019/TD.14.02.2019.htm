@@ -1,0 +1,51 @@
+<html>
+<head>
+<script src="TD.js"></script>
+<link rel=stylesheet type="text/css" href="TD.css">
+</head>
+<td_body>
+
+P/L Day: $<td_profitloss class=td_profit>0.00</td_profitloss> <div style="font-size:9pt">Running time: <td_hh>00</<td_hh>:<td_mm>00</td_mm>:<td_ss>00</td_ss></div><hr><br/><br/>
+Balance: $<td_balance>0.00</td_balance>
+<div id=TDDest></div><br/>
+
+<input id=td_onresume type=button value=Resume />&nbsp; <input id=td_onsuspend type=button value="Suspend (Buying)"/>&nbsp;<input id=td_onhold type=button value="Hold Trading Positions"/>
+
+<table>
+<tbody>
+
+<tr>
+<td>History<hr></td>
+<td>ETFs<hr></td>
+<td>Equities<hr></td>
+<br/><br/>
+</tr>
+
+<tr>
+
+<td>
+<div id=td_history class=css_history contenteditable>
+<td_details>15 FEB 19C (0) 100 6.62 1127.50 (<held-position>1</held-position>) <closing-price>1129.20</closing-price> (<closing-price-diff>1.70</closing-price-diff>) <closing-price-percent-diff>1.00</closing-price-percent-diff>%  GOOGL ALPHABET INC COM CLASS A </td_details>
+</div>
+</td>
+
+<td>
+<div id=td_etf class=css_etf contenteditable>
+<td_details>15 FEB 19C (0) 100 6.62 1127.50 (<current-position>1</current-position>) GOOGL ALPHABET INC COM CLASS A </td_details>
+<td_details>15 FEB 19P (0) 100 5.50 1130.00 (<current-position>1</current-position>) GOOGL ALPHABET INC COM CLASS A</td_details>
+<td_details>15 FEB 19C* (0) 100 6.62 1127.50 (<current-position>1</current-position>) GOOGL ALPHABET INC COM CLASS A </td_details>
+<td_details>15 FEB 19P* (0) 100 5.50 1130.00 (<current-position>1</current-position>) GOOGL ALPHABET INC COM CLASS A</td_details>
+</div>
+</td>
+
+<td>
+<div id=td_equity class=css_equity contenteditable>
+<td_details><short-symbol>AAPL</short-symbol>&nbsp;<stock-symbol>Apple</stock-symbol>&nbsp;<stock-price>170.80</stock-price>&nbsp;(<current-position>1</current-position>)</td_details></div>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+</td_body>
+</html>

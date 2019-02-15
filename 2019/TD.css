@@ -1,0 +1,29 @@
+.css_loss {
+	color: #af0000;
+}
+.css_history,
+.css_equity,
+.css_etf {
+	white-space:nowrap;
+	width:445px;
+	height:325px;
+	overflow:scroll;
+	outline:none;
+}
+td_body {
+	font-family:monospace;
+	font-size: 24pt;
+}
+td_balance,td_profitloss {
+	color: #00af00;
+	font-size: 24pt;
+}
+td_details {
+	display:block;
+}
+input {
+	cursor:pointer;
+}
+table {
+	width:100%;
+}
