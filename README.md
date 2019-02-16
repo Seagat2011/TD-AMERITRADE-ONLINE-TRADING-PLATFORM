@@ -13,7 +13,7 @@ of the underlying financial instrument is often never realized.
 
 This is why trades are highly leveraged against by brokerage firms before they even reach the open market. 
 Brokerage firms, our investment gateways, have realized this and have become reticent to actively trade in the market. 
-They are trading against you!
+Instead, they are trading against you!
 This is today's legal form of insider trading and it is on a scale of picoseconds (10e-12 seconds).
 Adrain T. Mitroi explains in detail how any long-term investment of an equity is guaranteed to lose money. 
 Trading Algorithms can avoid these pitfalls that cause humans to sell too soon, or buy too late, or hold a long-term equity position in financial
