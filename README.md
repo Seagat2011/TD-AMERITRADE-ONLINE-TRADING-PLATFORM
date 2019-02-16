@@ -11,13 +11,13 @@ thus, market sentiment (ie. the trend) is the largest determinant
 of an option's final value and that an option's ability to correctly correlate to the intrinsic value 
 of the underlying financial instrument is often never realized. 
 
-This is why trades are highly leveraged against by brokerage firms before they even reach the open market. 
+This is why trades are highly leveraged against by brokerage firms before they reach the open market. 
 Brokerage firms, our investment gateways, have realized this and have become reticent to actively trade in the market. 
 Instead, they are trading against you!
-This is today's legal form of insider trading and it is on a scale of picoseconds (10e-12 seconds).
+This is today's legal form of insider trading and it is at the scale of picoseconds (10e-12 seconds).
 Adrain T. Mitroi explains in detail how any long-term investment of an equity is guaranteed to lose money. 
-Trading Algorithms can avoid these pitfalls that cause humans to sell too soon, or buy too late, or hold a long-term equity position in financial
-instrument or asset that will undergo bankruptcy, corporate or government theft, or because of market regulation, innovation, 
+Trading Algorithms can avoid the pitfalls which cause humans to sell too soon, or buy too late, or hold a long-term equity position in a financial
+instrument or asset that will undergo bankruptcy, corporate or government theft -- or because of market regulation, innovation, 
 or other previously unknown market conditions, eventually go out of business.  
 
 Trend-trading, or trend-following does not take into account general market sentiment, trading volume, market news, or an instrument's access to liquidity -- 
