@@ -20,12 +20,12 @@ Trading Algorithms can avoid the pitfalls which cause humans to sell too soon, o
 instrument or asset that will undergo bankruptcy, corporate or government theft -- or because of market regulation, innovation, 
 or other previously unknown market conditions, eventually go out of business.  
 
-Trend-trading, or trend-following does not take into account general market sentiment, trading volume, market news, or an instrument's access to liquidity -- 
+Trend-trading, or trend-following however does not take into account general market sentiment, trading volume, market news, or an instrument's access to liquidity -- 
 this is highly controversial. 
 
 But trend-trading these multiple "inflection points", a term borrowed from the Mathematics of Calculus to indicate a measured deviation from the Mean 
 (ie. The Trend: 1-day Trend,7-day Trend,30-day Trend,Quarterly Trend,90-day Trend,200-day Trend,Annual Trend,Decade Trend, Lifelong Trend) 
-adequately indicate when to buy, and when to sell, as reflected in the option's premium and strike-price 
+adequately indicates when to buy, and when to sell, as reflected in the option's premium and strike-price 
 which opens, resumes, or eventually ends the trend.
 
 6.28
