@@ -6,7 +6,7 @@ Automated online trading platform written in HTML5 CSS3
 The platform engine is a trend-following artificial neural network, based upon Adrain T. Mitroi's seminal paper, 
 "Applied Behavioral Finance: Investor Biases, Performance Reversions To The Mean, And Trend Following", 
 published in 2014, during his tenure at The Bucharest Academy of Economics of Romania, 
-it states: option strike prices do not often reflect the true intrinsic value of the underlying asset;
+it states: option premium prices do not often reflect the true intrinsic value of the underlying asset;
 thus, market sentiment (ie. the trend) is the largest determinant 
 of an option's final value and that an option's ability to correctly correlate to the intrinsic value 
 of the underlying financial instrument is often never realized. 
