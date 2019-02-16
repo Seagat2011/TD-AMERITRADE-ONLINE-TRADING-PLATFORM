@@ -14,7 +14,7 @@ of the underlying financial instrument is often never realized.
 This is why trades are highly leveraged against by brokerage firms before they reach the open market. 
 Brokerage firms, our investment gateways, have realized this and have become reticent to actively trade in the market. 
 Instead, they are trading against you!
-This is today's legal form of insider trading and it is at the scale of picoseconds (10e-12 seconds).
+This is today's legal form of insider trading and it is conducted at the scale of picoseconds (10e-12 seconds).
 Adrain T. Mitroi explains in detail how any long-term investment of an equity is guaranteed to lose money. 
 Trading Algorithms can avoid the pitfalls which cause humans to sell too soon, or buy too late, or hold a long-term equity position in a financial
 instrument or asset that will undergo bankruptcy, corporate or government theft -- or because of market regulation, innovation, 
