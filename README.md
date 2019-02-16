@@ -3,7 +3,7 @@ Automated online trading platform written in HTML5 CSS3
 
 ## METHODOLOGY
 
-The platform engine is a trend-following neural network, based upon Adrain T. Mitroi's seminal paper, 
+The platform engine is a scale-invariant tensor trend-following artificial neural network, based upon Adrain T. Mitroi's seminal paper, 
 "Applied Behavioral Finance: Investor Biases, Performance Reversions to The Mean, And Trend Following", 
 published in 2014, during his tenure at The Bucharest Academy of Econmics of Romania, 
 which states: option strike prices do not often reflect the true intrinsic value of the underlying asset;
@@ -25,7 +25,7 @@ this is highly controversial.
 
 But trend-trading these multiple "inflection points", a term borrowed from the Mathematics of Calculus to indicate a measured deviation from the Mean 
 (ie. The Trend: 1-day Trend,7-day Trend,30-day Trend,Quarterly Trend,90-day Trend,200-day Trend,Annual Trend,Decade Trend, Lifelong Trend) 
-adequately indictae when to buy, and when to sell, as reflected in the option's premium and strike-price 
+adequately indicate when to buy, and when to sell, as reflected in the option's premium and strike-price 
 which opens, resumes, or eventually ends the trend.
 
 6.28
