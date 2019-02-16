@@ -4,7 +4,7 @@ Automated online trading platform written in HTML5 CSS3
 ## METHODOLOGY
 
 The platform engine is a trend-following artificial neural network, based upon Adrain T. Mitroi's seminal paper, 
-"Applied Behavioral Finance: Investor Biases, Performance Reversions to The Mean, And Trend Following", 
+"Applied Behavioral Finance: Investor Biases, Performance Reversions To The Mean, And Trend Following", 
 published in 2014, during his tenure at The Bucharest Academy of Economics of Romania, 
 which states: option strike prices do not often reflect the true intrinsic value of the underlying asset;
 thus, market sentiment (ie. the trend) is the largest determinant 
