@@ -24,7 +24,7 @@ Trend-trading, or trend-following however does not take into account general mar
 this is highly controversial. 
 
 But trend-trading these multiple "inflection points", a term borrowed from the Mathematics of Calculus to indicate a measured deviation from the Mean 
-(ie. The Trend: 1-minute Trend,5-minute Trend,1-hr Trend,5-hr Trend,1-day Trend,5-day Trend,20-day Trend,Quarterly Trend,50-day Trend,200-day Trend,Annual Trend,Decade Trend, Lifelong Trend) 
+(ie. The Trend: 1-minute Trend,5-minute Trend,1-hr Trend,5-hr Trend,1-day Trend,5-day Trend,20-day Trend,50-day Trend,Quarterly Trend,200-day Trend,Annual Trend,Decade Trend, Lifelong Trend) 
 adequately indicates when to buy, and when to sell, as reflected in the option's premium and strike-price 
 which opens, resumes, or eventually ends the trend.
 
