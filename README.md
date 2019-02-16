@@ -3,7 +3,7 @@ Automated online trading platform written in HTML5 CSS3
 
 ## METHODOLOGY
 
-The platform engine is a trend-following artificial neural network, based upon Adrain T. Mitroi's seminal paper, 
+The platform engine is a trend-following artificial neural network, based upon Adrian T. Mitroi's seminal paper, 
 "Applied Behavioral Finance: Investor Biases, Performance Reversions To The Mean, And Trend Following", 
 published in 2014, during his tenure at The Bucharest Academy of Economics in Romania, 
 it states: option premium prices do not often reflect the true intrinsic value of the underlying asset;
@@ -15,7 +15,7 @@ This is why trades are highly leveraged against by brokerage firms before they r
 Brokerage firms, our investment gateways, have realized this and have become reticent to actively trade in the market. 
 Instead, they are trading against you!
 This is today's legal form of insider trading and it is conducted at the scale of picoseconds (10e-12 seconds).
-Adrain T. Mitroi explains in detail how any long-term investment of an equity is guaranteed to lose money. 
+Adrian T. Mitroi explains in detail how any long-term investment of an equity is guaranteed to lose money. 
 Trading Algorithms can avoid the pitfalls which cause humans to sell too soon, or buy too late, or hold a long-term equity position in a financial
 instrument or asset that will undergo bankruptcy, corporate or government theft -- or because of market regulation, innovation, 
 or other previously unknown market conditions, eventually go out of business.  
