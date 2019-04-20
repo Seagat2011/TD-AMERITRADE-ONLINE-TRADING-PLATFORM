@@ -28,6 +28,6 @@ But trend-trading these multiple "inflection points", a term borrowed from the M
 adequately indicates when to buy, and when to sell, as reflected in the option's premium and strike-price 
 which opens, resumes, or eventually ends the trend.
 
-[1] - cnbc - "High Frequency Trading Firms Earning Soar 227% in 2018" - https://www.cnbc.com/2019/04/18/a-controversial-part-of-robinhoods-business-tripled-in-sales-thanks-to-high-frequency-trading-firms.html
+[ 1 ] - cnbc - "High Frequency Trading Firms Earnings Soar 227% in 2018" - https://www.cnbc.com/2019/04/18/a-controversial-part-of-robinhoods-business-tripled-in-sales-thanks-to-high-frequency-trading-firms.html
 
 6.28
