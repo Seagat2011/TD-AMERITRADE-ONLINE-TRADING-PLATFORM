@@ -1,5 +1,5 @@
 # TD-AMERITRADE-ONLINE-TRADING-PLATFORM
-Automated online trading platform written in HTML5 CSS3 with Historical stock price quotes, in CSV format, spanning five (5) years. [1]
+Automated online trading platform written in HTML5 CSS3 with Historical stock quotes, in CSV format, spanning five (5) years. [1]
 
 ## METHODOLOGY
 
