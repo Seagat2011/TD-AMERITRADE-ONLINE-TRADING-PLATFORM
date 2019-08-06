@@ -3,7 +3,7 @@ Automated online trading platform written in HTML5 and CSS3, along with five (5)
 
 ## METHODOLOGY
 
-The platform engine is a trend-following artificial neural network, based upon Adrian T. Mitroi's seminal paper, 
+The platform engine is a trend-following artificial neural network, based upon Adrian T. Mitroi's seminal paper [3], 
 "Applied Behavioral Finance: Investor Biases, Performance Reversions To The Mean, And Trend Following", 
 published in 2014, during his tenure at The Bucharest Academy of Economics in Romania, 
 it states: option premium prices do not often reflect the true intrinsic value of the underlying asset;
@@ -30,5 +30,6 @@ which opens, resumes, or eventually ends the trend.
 
 [ 1 ] Macrotrends - real-time quotes - https://download.macrotrends.net/assets/php/stock_data_export.php?t=[Symbol]  
 [ 2 ] - cnbc - "High Frequency Trading Firms Earnings Soar 227% in 2018" - https://www.cnbc.com/2019/04/18/a-controversial-part-of-robinhoods-business-tripled-in-sales-thanks-to-high-frequency-trading-firms.html
+[ 3 ] - Semantic Scholar - https://pdfs.semanticscholar.org/760c/9257654d0a4b6cf10cf496afc4efb2896060.pdf
 
 6.28
